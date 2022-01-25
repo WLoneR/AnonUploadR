@@ -1,5 +1,5 @@
 # AnonUploadR
-**Download Links (Windows): **
+**Download Links (Windows):**
 
 	Non Console : https://anonfiles.com/Z9Sa74D7x8/AnonUploadRNonConsole_exe
 	Console : https://anonfiles.com/X5Tf72Dbx3/AnonUploadRConsole_exe
